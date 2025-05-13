@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Drambo Notes</title>
+    <link href="https://offbrands-studio.github.io/drambo/feed.xml" rel="self" />
+    <link href="https://offbrands-studio.github.io/drambo" />
+    <updated>2025-05-13T15:16:38-07:00</updated>
+    <author>
+        <name>Frederick</name>
+    </author>
+    <id>https://offbrands-studio.github.io/drambo</id>
+
+    <entry>
+        <title>Drambo Notes </title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/drambo-notes.html"/>
+        <id>https://offbrands-studio.github.io/drambo/drambo-notes.html</id>
+
+        <updated>2025-05-13T15:16:38-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This site is based on Drambo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This site is based on Drambo</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

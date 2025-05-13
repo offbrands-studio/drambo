@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Drambo Notes",
+    "description": "",
+    "home_page_url": "https://offbrands-studio.github.io/drambo",
+    "feed_url": "https://offbrands-studio.github.io/drambo/feed.json",
+    "user_comment": "",
+    "icon": "https://offbrands-studio.github.io/drambo/media/website/Drambo.png",
+    "author": {
+        "name": "Frederick"
+    },
+    "items": [
+        {
+            "id": "https://offbrands-studio.github.io/drambo/drambo-notes.html",
+            "url": "https://offbrands-studio.github.io/drambo/drambo-notes.html",
+            "title": "Drambo Notes ",
+            "summary": "This site is based on Drambo",
+            "content_html": "<p>This site is based on Drambo</p>",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T15:16:38-07:00",
+            "date_modified": "2025-05-13T15:16:38-07:00"
+        }
+    ]
+}
