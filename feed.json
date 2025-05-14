@@ -11,90 +11,18 @@
     },
     "items": [
         {
-            "id": "https://offbrands-studio.github.io/drambo/math.html",
-            "url": "https://offbrands-studio.github.io/drambo/math.html",
-            "title": "Math",
+            "id": "https://offbrands-studio.github.io/drambo/drambo.html",
+            "url": "https://offbrands-studio.github.io/drambo/drambo.html",
+            "title": "Drambo",
+            "summary": "At the heart of Drambo lies an entirely new concept that makes&hellip;",
+            "content_html": "<p>At the heart of Drambo lies an entirely new concept that makes modularity easy, fun and affordable. Modules are connected automatically, with no cables as you add or rearrange them. A dynamic interface creates modulation knobs when you need them. Modules may house other modules, so you can keep your patch well organized. Of course, automatic connections can be overridden. In Drambo you can focus on playing with sound and signal structure without getting lost in wires.</p>\n<p>Use a deep and innovative sequencer to compose patterns and whole tracks, for production or live performance. Go beyond simple looping sequences with parameter locking, conditional step components, and powerful scene morphing. Drambo works equally well as a self-contained standalone app or audio unit plugin with audio and MIDI connectivity as an AUV3 instrument, audio effect, and midi effect. No modular experience necessary to get started playing with preset sounds and effects.</p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Frederick"
             },
             "tags": [
             ],
-            "date_published": "2025-05-13T22:47:36-07:00",
-            "date_modified": "2025-05-13T23:28:09-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/misc-utility.html",
-            "url": "https://offbrands-studio.github.io/drambo/misc-utility.html",
-            "title": "MISC / UTILITY",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T22:47:15-07:00",
-            "date_modified": "2025-05-13T23:27:50-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/midi.html",
-            "url": "https://offbrands-studio.github.io/drambo/midi.html",
-            "title": "MIDI",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T22:46:22-07:00",
-            "date_modified": "2025-05-13T23:27:09-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/mixer.html",
-            "url": "https://offbrands-studio.github.io/drambo/mixer.html",
-            "title": "Mixer",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T22:45:59-07:00",
-            "date_modified": "2025-05-13T23:26:43-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/modulator.html",
-            "url": "https://offbrands-studio.github.io/drambo/modulator.html",
-            "title": "Modulator ",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T22:45:39-07:00",
-            "date_modified": "2025-05-13T23:26:27-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/processor.html",
-            "url": "https://offbrands-studio.github.io/drambo/processor.html",
-            "title": "Processor",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T22:43:46-07:00",
-            "date_modified": "2025-05-13T23:26:14-07:00"
-        },
-        {
-            "id": "https://offbrands-studio.github.io/drambo/generators-2.html",
-            "url": "https://offbrands-studio.github.io/drambo/generators-2.html",
-            "title": "Generators ",
-            "summary": "Generators are a part of the formula to create",
-            "content_html": "<p><br>Generators are a part of the formula to create</p>",
-            "author": {
-                "name": "Frederick"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-13T17:41:24-07:00",
-            "date_modified": "2025-05-13T23:25:56-07:00"
+            "date_published": "2025-05-13T17:24:44-07:00",
+            "date_modified": "2025-05-13T23:36:32-07:00"
         }
     ]
 }
