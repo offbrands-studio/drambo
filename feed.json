@@ -11,18 +11,90 @@
     },
     "items": [
         {
-            "id": "https://offbrands-studio.github.io/drambo/drambo-notes.html",
-            "url": "https://offbrands-studio.github.io/drambo/drambo-notes.html",
-            "title": "Drambo Notes ",
-            "summary": "This site is based on Drambo",
-            "content_html": "<p>This site is based on Drambo</p>",
+            "id": "https://offbrands-studio.github.io/drambo/math.html",
+            "url": "https://offbrands-studio.github.io/drambo/math.html",
+            "title": "Math",
             "author": {
                 "name": "Frederick"
             },
             "tags": [
             ],
-            "date_published": "2025-05-13T15:16:38-07:00",
-            "date_modified": "2025-05-13T15:16:38-07:00"
+            "date_published": "2025-05-13T22:47:36-07:00",
+            "date_modified": "2025-05-13T23:28:09-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/misc-utility.html",
+            "url": "https://offbrands-studio.github.io/drambo/misc-utility.html",
+            "title": "MISC / UTILITY",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T22:47:15-07:00",
+            "date_modified": "2025-05-13T23:27:50-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/midi.html",
+            "url": "https://offbrands-studio.github.io/drambo/midi.html",
+            "title": "MIDI",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T22:46:22-07:00",
+            "date_modified": "2025-05-13T23:27:09-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/mixer.html",
+            "url": "https://offbrands-studio.github.io/drambo/mixer.html",
+            "title": "Mixer",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T22:45:59-07:00",
+            "date_modified": "2025-05-13T23:26:43-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/modulator.html",
+            "url": "https://offbrands-studio.github.io/drambo/modulator.html",
+            "title": "Modulator ",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T22:45:39-07:00",
+            "date_modified": "2025-05-13T23:26:27-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/processor.html",
+            "url": "https://offbrands-studio.github.io/drambo/processor.html",
+            "title": "Processor",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T22:43:46-07:00",
+            "date_modified": "2025-05-13T23:26:14-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/generators-2.html",
+            "url": "https://offbrands-studio.github.io/drambo/generators-2.html",
+            "title": "Generators ",
+            "summary": "Generators are a part of the formula to create",
+            "content_html": "<p><br>Generators are a part of the formula to create</p>",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-13T17:41:24-07:00",
+            "date_modified": "2025-05-13T23:25:56-07:00"
         }
     ]
 }

@@ -3,29 +3,101 @@
     <title>Drambo Notes</title>
     <link href="https://offbrands-studio.github.io/drambo/feed.xml" rel="self" />
     <link href="https://offbrands-studio.github.io/drambo" />
-    <updated>2025-05-13T15:16:38-07:00</updated>
+    <updated>2025-05-13T23:28:09-07:00</updated>
     <author>
         <name>Frederick</name>
     </author>
     <id>https://offbrands-studio.github.io/drambo</id>
 
     <entry>
-        <title>Drambo Notes </title>
+        <title>Math</title>
         <author>
             <name>Frederick</name>
         </author>
-        <link href="https://offbrands-studio.github.io/drambo/drambo-notes.html"/>
-        <id>https://offbrands-studio.github.io/drambo/drambo-notes.html</id>
+        <link href="https://offbrands-studio.github.io/drambo/math.html"/>
+        <id>https://offbrands-studio.github.io/drambo/math.html</id>
 
-        <updated>2025-05-13T15:16:38-07:00</updated>
+        <updated>2025-05-13T22:47:36-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>MISC / UTILITY</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/misc-utility.html"/>
+        <id>https://offbrands-studio.github.io/drambo/misc-utility.html</id>
+
+        <updated>2025-05-13T22:47:15-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>MIDI</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/midi.html"/>
+        <id>https://offbrands-studio.github.io/drambo/midi.html</id>
+
+        <updated>2025-05-13T22:46:22-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mixer</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/mixer.html"/>
+        <id>https://offbrands-studio.github.io/drambo/mixer.html</id>
+
+        <updated>2025-05-13T22:45:59-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Modulator </title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/modulator.html"/>
+        <id>https://offbrands-studio.github.io/drambo/modulator.html</id>
+
+        <updated>2025-05-13T22:45:39-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Processor</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/processor.html"/>
+        <id>https://offbrands-studio.github.io/drambo/processor.html</id>
+
+        <updated>2025-05-13T22:43:46-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Generators </title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/generators-2.html"/>
+        <id>https://offbrands-studio.github.io/drambo/generators-2.html</id>
+
+        <updated>2025-05-13T17:41:24-07:00</updated>
             <summary>
                 <![CDATA[
-                    This site is based on Drambo
+                    Generators are a part of the formula to create
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This site is based on Drambo</p>
+                <p><br>Generators are a part of the formula to create</p>
             ]]>
         </content>
     </entry>
