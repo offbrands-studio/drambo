@@ -1,28 +1,43 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Drambo Notes",
+    "title": "LayLow Photos",
     "description": "",
     "home_page_url": "https://offbrands-studio.github.io/drambo",
     "feed_url": "https://offbrands-studio.github.io/drambo/feed.json",
     "user_comment": "",
-    "icon": "https://offbrands-studio.github.io/drambo/media/website/Drambo.png",
     "author": {
         "name": "Frederick"
     },
     "items": [
         {
-            "id": "https://offbrands-studio.github.io/drambo/drambo.html",
-            "url": "https://offbrands-studio.github.io/drambo/drambo.html",
-            "title": "Drambo",
-            "summary": "At the heart of Drambo lies an entirely new concept that makes&hellip;",
-            "content_html": "<p>At the heart of Drambo lies an entirely new concept that makes modularity easy, fun and affordable. Modules are connected automatically, with no cables as you add or rearrange them. A dynamic interface creates modulation knobs when you need them. Modules may house other modules, so you can keep your patch well organized. Of course, automatic connections can be overridden. In Drambo you can focus on playing with sound and signal structure without getting lost in wires.</p>\n<p>Use a deep and innovative sequencer to compose patterns and whole tracks, for production or live performance. Go beyond simple looping sequences with parameter locking, conditional step components, and powerful scene morphing. Drambo works equally well as a self-contained standalone app or audio unit plugin with audio and MIDI connectivity as an AUV3 instrument, audio effect, and midi effect. No modular experience necessary to get started playing with preset sounds and effects.</p>\n<p> </p>\n<p> </p>",
+            "id": "https://offbrands-studio.github.io/drambo/analog.html",
+            "url": "https://offbrands-studio.github.io/drambo/analog.html",
+            "title": "Analog",
+            "summary": "Analog Photos&nbsp; From over the years&nbsp;",
+            "content_html": "\n    <h2 id=\"analog-photosandnbsp\">\n      Analog Photos&nbsp;\n    </h2>\n\n  <p>\n    From over the years&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://offbrands-studio.github.io/drambo/media/posts/20/monoangel.jpg",
             "author": {
                 "name": "Frederick"
             },
             "tags": [
             ],
-            "date_published": "2025-05-13T17:24:44-07:00",
-            "date_modified": "2025-05-13T23:36:32-07:00"
+            "date_published": "2025-05-15T17:54:30-07:00",
+            "date_modified": "2025-05-15T18:19:08-07:00"
+        },
+        {
+            "id": "https://offbrands-studio.github.io/drambo/posts.html",
+            "url": "https://offbrands-studio.github.io/drambo/posts.html",
+            "title": "Digital",
+            "summary": "Digital Photos&nbsp; from over the years",
+            "content_html": "\n    <h2 id=\"digital-photosandnbsp\">\n      Digital Photos&nbsp;\n    </h2>\n\n  <p>\n    from over the years\n  </p>",
+            "image": "https://offbrands-studio.github.io/drambo/media/posts/15/digitalportraitredblur.jpg",
+            "author": {
+                "name": "Frederick"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-15T17:26:25-07:00",
+            "date_modified": "2025-05-15T18:20:30-07:00"
         }
     ]
 }

@@ -1,34 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Drambo Notes</title>
+    <title>LayLow Photos</title>
     <link href="https://offbrands-studio.github.io/drambo/feed.xml" rel="self" />
     <link href="https://offbrands-studio.github.io/drambo" />
-    <updated>2025-05-13T23:36:32-07:00</updated>
+    <updated>2025-05-15T18:20:30-07:00</updated>
     <author>
         <name>Frederick</name>
     </author>
     <id>https://offbrands-studio.github.io/drambo</id>
 
     <entry>
-        <title>Drambo</title>
+        <title>Analog</title>
         <author>
             <name>Frederick</name>
         </author>
-        <link href="https://offbrands-studio.github.io/drambo/drambo.html"/>
-        <id>https://offbrands-studio.github.io/drambo/drambo.html</id>
+        <link href="https://offbrands-studio.github.io/drambo/analog.html"/>
+        <id>https://offbrands-studio.github.io/drambo/analog.html</id>
+        <media:content url="https://offbrands-studio.github.io/drambo/media/posts/20/monoangel.jpg" medium="image" />
 
-        <updated>2025-05-13T17:24:44-07:00</updated>
+        <updated>2025-05-15T17:54:30-07:00</updated>
             <summary>
                 <![CDATA[
-                    At the heart of Drambo lies an entirely new concept that makes&hellip;
+                        <img src="https://offbrands-studio.github.io/drambo/media/posts/20/monoangel.jpg" alt="" />
+                    Analog Photos&nbsp; From over the years&nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>At the heart of Drambo lies an entirely new concept that makes modularity easy, fun and affordable. Modules are connected automatically, with no cables as you add or rearrange them. A dynamic interface creates modulation knobs when you need them. Modules may house other modules, so you can keep your patch well organized. Of course, automatic connections can be overridden. In Drambo you can focus on playing with sound and signal structure without getting lost in wires.</p>
-<p>Use a deep and innovative sequencer to compose patterns and whole tracks, for production or live performance. Go beyond simple looping sequences with parameter locking, conditional step components, and powerful scene morphing. Drambo works equally well as a self-contained standalone app or audio unit plugin with audio and MIDI connectivity as an AUV3 instrument, audio effect, and midi effect. No modular experience necessary to get started playing with preset sounds and effects.</p>
-<p> </p>
-<p> </p>
+                    <p><img src="https://offbrands-studio.github.io/drambo/media/posts/20/monoangel.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="analog-photosandnbsp">
+      Analog Photos&nbsp;
+    </h2>
+
+  <p>
+    From over the years&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Digital</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://offbrands-studio.github.io/drambo/posts.html"/>
+        <id>https://offbrands-studio.github.io/drambo/posts.html</id>
+        <media:content url="https://offbrands-studio.github.io/drambo/media/posts/15/digitalportraitredblur.jpg" medium="image" />
+
+        <updated>2025-05-15T17:26:25-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://offbrands-studio.github.io/drambo/media/posts/15/digitalportraitredblur.jpg" alt="" />
+                    Digital Photos&nbsp; from over the years
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://offbrands-studio.github.io/drambo/media/posts/15/digitalportraitredblur.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="digital-photosandnbsp">
+      Digital Photos&nbsp;
+    </h2>
+
+  <p>
+    from over the years
+  </p>
             ]]>
         </content>
     </entry>
